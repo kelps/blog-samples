@@ -8,6 +8,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+[Uu]pgrade[Ll]og.htm
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -17,8 +18,8 @@
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-x64/
-x86/
+[Xx]64/
+[Xx]86/
 bld/
 [Bb]in/
 [Oo]bj/
